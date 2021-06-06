@@ -1,3 +1,8 @@
+"""
+For generating random values in Excel sheet. 
+"""
+
+
 from openpyxl import Workbook, load_workbook
 from openpyxl.utils import get_column_letter
 from random import randrange, uniform

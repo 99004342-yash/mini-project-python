@@ -1,6 +1,10 @@
-## Automated excel with Python 3
+# Automated excel with Python 3
 
-# Steps to use:
+### Steps to use:
 
 1. run `pip3 install -r requirements.txt`
 2. run `python3 ./src/index.py`
+
+### Pylint score
+
+| Pylint Score | 8.05 |

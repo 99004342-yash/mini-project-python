@@ -62,6 +62,10 @@ class ExcelOperation:
                     work_sheet_2 = work_book_2.create_sheet(work_sheet.title)
                     work_sheet_2.append(self.get_headers(work_sheet))
                     work_sheet_2.append([x.value for x in work_sheet[i]])
+
+                    print(
+                        f'\nOutput generated in sheet title: "{work_sheet.title}" of output.xlsx\n')
+
         work_book_2.save("output.xlsx")
 
 

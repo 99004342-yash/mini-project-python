@@ -3,8 +3,8 @@
 ### Steps to use:
 
 1. run `pip3 install -r requirements.txt`
-2. run `python3 ./src/index.py`
+2. run `cd ./src && python3 index.py`
 
 ### Pylint score
 
-| Pylint Score | 8.05 |
+*9.52*

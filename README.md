@@ -11,6 +11,6 @@
 
 ### Pytest
 
-[!Pytest tests](https://github.com/99004342-yash/mini-project-python/actions/workflows/python-package.yml/badge.svg)
+[![Tests](https://github.com/99004342-yash/mini-project-python/actions/workflows/python-package.yml/badge.svg)](https://github.com/99004342-yash/mini-project-python/actions/workflows/python-package.yml)
 
 

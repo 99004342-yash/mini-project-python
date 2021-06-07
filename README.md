@@ -9,4 +9,8 @@
 ### Pylint score - 9.52
 - run `pylint index.py`
 
+### Pytest
+
+[!Pytest tests](https://github.com/99004342-yash/mini-project-python/actions/runs/914100468/workflow/badge.svg)
+
 

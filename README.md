@@ -19,6 +19,7 @@
 **Make sure you are inside _`/src`_ folder before running the command**
 
 - run `pytest tests.py`
+
 [![Tests](https://github.com/99004342-yash/mini-project-python/actions/workflows/python-package.yml/badge.svg)](https://github.com/99004342-yash/mini-project-python/actions/workflows/python-package.yml)
 
 

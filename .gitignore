@@ -11,3 +11,4 @@
 pyvenv.cfg
 .venv
 pip-selfcheck.json
+src/random_excel_generator.py
